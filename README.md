@@ -1,16 +1,47 @@
-## Hi there 👋
+# Olá! 👋 Bem-vindo ao meu GitHub!
 
-<!--
-**mellobgk/mellobgk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Sou estudante de **Análise e Desenvolvimento de Sistemas na UNIPÊ**.
 
-Here are some ideas to get you started:
+💻 Tenho interesse em **Desenvolvimento Back-end**, principalmente com Python, bancos de dados e desenvolvimento de aplicações.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias e conhecimentos
+
+- **Python:** básico
+- **Linguagem C:** intermediário
+- **MySQL:** básico
+- **HTML e CSS:** básico
+- **Git e GitHub:** intermediário
+- **Lógica de programação:** avançado (autoavaliação)
+
+## 📚 Atualmente estou estudando
+
+- Programação orientada a objetos
+- Desenvolvimento back-end com Python
+- Bancos de dados relacionais e SQL
+- Desenvolvimento de APIs
+- Boas práticas de programação
+
+## 🎯 Objetivos profissionais
+
+- Aprofundar meus conhecimentos em Python.
+- Desenvolver aplicações back-end com integração a bancos de dados.
+- Aprender a construir e documentar APIs.
+- Participar de projetos colaborativos.
+- Conquistar uma oportunidade de estágio na área de desenvolvimento de software.
+
+## 🤝 Competências comportamentais
+
+- Trabalho em equipe
+- Comunicação
+- Resolução de problemas
+- Aprendizagem contínua
+
+## 📂 Meus projetos
+
+Confira meus repositórios públicos e acompanhe minha evolução acadêmica e profissional:
+
+https://github.com/mellobgk?tab=repositories
+
+## 📫 Contato
+
+GitHub: https://github.com/mellobgk
